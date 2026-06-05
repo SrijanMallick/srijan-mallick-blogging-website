@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://srijanmallick.in/sitemap.xml
+Sitemap: https://www.srijanmallick.in/sitemap.xml

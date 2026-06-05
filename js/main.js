@@ -8,7 +8,7 @@ const SITE = {
   email: 'srijanmallicknita@gmail.com',
   linkedin: 'https://linkedin.com/in/srijanmallick',
   github: 'https://github.com/SrijanMallick',
-  baseUrl: 'https://srijanmallick.in'
+  baseUrl: 'https://www.srijanmallick.in'
 };
 
 const BLOGS = [
