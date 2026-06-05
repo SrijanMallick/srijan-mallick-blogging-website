@@ -1043,6 +1043,11 @@ body[data-blog-slug] .article-content .lead {
     gap: 0.25rem 0.65rem;
   }
 
+  body[data-blog-slug] main .container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
   body[data-blog-slug] .article-content {
     font-size: 1rem;
     line-height: 1.65;
@@ -1211,5 +1216,10 @@ body[data-blog-slug] .article-content .lead {
 
   .container {
     padding: 0 var(--spacing-sm);
+  }
+
+  body[data-blog-slug] main .container {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
   }
 }
